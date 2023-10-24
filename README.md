@@ -9,7 +9,7 @@ The election commission has requested some additional data to complete the audit
 
 You will be using Python to write algorithms that will assist the confirmation and analysis of election results.
 
-## Election-Audit Results 
+## Audit Results 
 The analysis of the election show that:
 - There were 369,711 votes cast in the election
 - Diana DeGette won the election with 73.8% (272,892) of votes
@@ -19,5 +19,5 @@ Below is a breakdown of the number of votes and the percentage of total votes fo
 
 ![This is an image of the results](analysis/results.png)
 
-## Election-Audit Summary
+## Summary
 In future elections, this script can be used to analyze not only the number and percentages of votes in all counties invovled in an election but which counties had higher turnout rates than others, which counties voted democratic vs republican, and which candidates were in the lead at specific intervals in an election. Using this script will allow analysts to interpret and predict election results.
