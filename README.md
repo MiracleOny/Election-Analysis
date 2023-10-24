@@ -1,4 +1,4 @@
-# Python-Challenge
+# Automating with Python
 
 ## Overview of Election Audit
 The election commission has requested some additional data to complete the audit:
